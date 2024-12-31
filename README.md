@@ -1,2 +1,2 @@
 # comparador-de-precos
- App desenvolvido HTML, JavaScript e estilização responsiva utilizando CSS.
+ App desenvolvido com HTML, JavaScript e estilização responsiva utilizando CSS.
