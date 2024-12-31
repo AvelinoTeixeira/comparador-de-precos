@@ -1,2 +1,2 @@
 # comparador-de-precos
- App desenvolvido em React com estilização responsiva utilizando Tailwind CSS.
+ App desenvolvido HTML, JavaScript e estilização responsiva utilizando CSS.
